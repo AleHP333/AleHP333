@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">Full Stack Web Developer (PERN, MERN)</h3>
 
-- 🚀 I'm currently searching to be employed as IT Developer 👨‍💻 [My Linked-In](https://www.linkedin.com/in/alejandro-h%C3%A9ctor-palavecino-579b251aa/)
+- 🚀 I'm currently searching for a employ as IT Developer 👨‍💻 [My Linked-In](https://www.linkedin.com/in/alejandro-h%C3%A9ctor-palavecino-579b251aa/)
 
 - 🧙 My best knowledges: **ReactJS, JavaScript, ExpressJS, Mongoose**
 
