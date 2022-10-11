@@ -10,7 +10,8 @@
 - 💪 Here's my last proyect: **Arterest** (Source code available on my GitHub Repositories 😃)
 
 - 📫 How to reach me: **pppppale@gmail.com**
-  📞 My number: +54 93487 624753
+
+- 📞 My number: +54 93487 624753
 
 <p align="left">
 </p>
