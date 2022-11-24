@@ -5,7 +5,7 @@
 
 - 🧙 My best knowledges: **ReactJS, JavaScript, ExpressJS, Mongoose**
 
-- 🌱 Actually learning: **Angular, TypeScript and Java ☕**
+- 🌱 Actually learning: **Python, Angular, TypeScript ☕**
 
 - 💪 Here's my last proyect: **Arterest** (Source code available on my GitHub Repositories 😃)
 
