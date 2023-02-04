@@ -18,7 +18,7 @@
 
 # 👨‍🔬 Tech Stack & Knowledges:
 
-- Amazon Web Services ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) :
+- Amazon Web Services ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)                                        
     Knowledge on the Amazon Web Services IT/Cloud resources.
     Understanding of the AWS good practices and knowledge on Well-Architected Framework and Cloud Adoption Framework.
     Network 
