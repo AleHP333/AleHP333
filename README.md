@@ -17,6 +17,12 @@
 </p>
 
 # 👨‍🔬 Tech Stack & Knowledges:
+
+- Amazon Web Services ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) :
+    Knowledge on the Amazon Web Services IT/Cloud resources.
+    Understanding of the AWS good practices and knowledge on Well-Architected Framework and Cloud Adoption Framework.
+    Network 
+    
 - Languages:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - Frontend:   
